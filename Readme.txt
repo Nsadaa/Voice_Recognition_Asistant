@@ -3,7 +3,7 @@ Voice Recognition Assistant ( Voice Recognition Programme ).
 - This is  programme which is developed using python with Pycharm IDLE.
 - Assitant means its can use to make our day to day life easier. as example its like 'Alexa' , 'Cortna'.
 - We can give voice commands to this & its also reply with voices. 
-- Basicaly we can do several things using this.
+- Basicaly we can did several things using this.
 
      Such as :  Check current date & time.
 	     :  Check current Country , Region & City.
