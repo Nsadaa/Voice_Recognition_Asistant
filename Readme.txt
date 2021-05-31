@@ -5,7 +5,7 @@ Voice Recognition Assistant ( Voice Recognition Programme ).
 - We can give voice commands to this & its also reply with voices. 
 - Basicaly we can do several things using this.
 
-        Such as :  Check current date & time.
+     Such as :  Check current date & time.
 	     :  Check current Country , Region & City.
 	     :  Seach anything in google.
 	     :  Seach any location in google maps.
