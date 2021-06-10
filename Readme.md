@@ -1,4 +1,4 @@
-Voice Recognition Assistant ( Voice Recognition Programme ).
+## Voice Recognition Assistant ( Voice Recognition Programme ).
 
 - This is  programme which is developed using python with Pycharm IDLE.
 - Assitant means its can use to make our day to day life easier. as example its like 'Alexa' , 'Cortna'.
@@ -27,6 +27,8 @@ Voice Recognition Assistant ( Voice Recognition Programme ).
                      : If statments.
                      : lists.
                      : String methods.
+		     
+## Developments
 
 - You can do Future Developments using this.
 
