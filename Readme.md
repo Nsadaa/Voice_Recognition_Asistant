@@ -2,7 +2,7 @@
 
 ### Introduction
 ---
-> This is  programme which is developed using python with Pycharm IDLE. Assitant means its can use to make our day to day life easier. As example its like 'Alexa' , 'Cortna'.
+- This is  programme which is developed using python with Pycharm IDLE. Assitant means its can use to make our day to day life easier. As example its like 'Alexa' , 'Cortna'.
 We can give voice commands to this & its also reply with voices. Basicaly we can did several things using this. This is not AI based programme , but currently following for that.
 
 ### Programme Structure
